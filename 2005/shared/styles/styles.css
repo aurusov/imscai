@@ -1,0 +1,51 @@
+body { background: #ffffff; color: #000000; font-family: verdana, arial, helvetica, sans-serif; font-size: 100% }
+
+ul.seminar { font-weight: bold; font-size: 80%; }
+
+p { text-align: justify }
+
+p.organizer { text-align: center; font-weight: bold; font-size: 110% }
+p.pretitle  { text-align: center; font-size: 100% }
+p.title     { text-align: center; font-weight: bold; font-size: 130% }
+p.posttitle { text-align: center; font-weight: bold; font-style: italic; font-size: 100% }
+
+p.introtitle { text-align: center; font-weight: bold; font-size: 100% }
+p.intro      { font-size: 100% }
+
+p.razdel      { text-align: center; font-weight: bold; font-size: 90% }
+p.sostavtitle { text-align: left; font-size: 90% }
+p.sostavfio   { text-align: left; font-weight: bold; font-size: 90% }
+p.sostav      { text-align: left; font-size: 90% }
+p.text        { text-align: justify; font-size: 90% }
+
+p.zayavkatitle { text-align: center; font-style: italic; font-weight: bold; font-size: 90% }
+p.zayavka      { text-align: justify; font-size: 90% }
+ol.zayavka     { font-style: italic; font-size: 90%; }
+ul.zayavka     { font-size: 90%; }
+
+p.finish { text-align: center; font-style: italic; font-weight: bold; font-size: 100% }
+
+p.footer { text-align: center; color: #0052B0; font-family: verdana, arial, helvetica, sans-serif; font-size: 70%; font-weight: bold }
+
+p.warning { text-align: center; font-size: 80% }
+
+table.normal { align: center; width: 100% }
+td.day  { text-align: center; font-weight: bold; font-size: 90% }
+td.time { text-align: center; font-size: 80% }
+td.info { text-align: center; font-size: 80% }
+
+td.smalldaytitle { text-align: left; font-weight: bold; font-size: 80% }
+td.smalldaytime  { text-align: center; vertical-align: top; font-weight: bold; font-size: 80% }
+td.smalldayinfo  { text-align: left; font-weight: bold; font-size: 80% }
+
+ul.program { text-align: left; font-size: 80% }
+
+a { font-size: 90%; font-family: verdana, arial, helvetica, sans-serif }
+
+a:link { color: #0052B0; text-decoration: underline; font-weight: bold }
+
+a:visited { color: #968055; text-decoration: underline; font-weight: bold }
+
+a:active { color: #CC9900F; text-decoration: underline; font-weight: bold }
+
+a:hover { color: #CC9900; text-decoration: underline; font-weight: bold }
