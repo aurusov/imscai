@@ -46,11 +46,11 @@ td.hotel
 	white-space: nowrap;
 }
 
-td.smalldaytitle		{ text-align: left; font-weight: bold; font-size: 80% }
-td.smalldaytime			{ text-align: center; vertical-align: top; font-weight: bold; font-size: 80% }
-td.smalldaytime_thin	{ text-align: center; vertical-align: top; font-size: 80% }
+td.smalldaytitle			{ text-align: left; font-weight: bold; font-size: 80% }
+td.smalldaytime			{ text-align: left; vertical-align: top; font-weight: bold; font-size: 80% }
+td.smalldaytime_thin		{ text-align: left; vertical-align: top; font-size: 80% }
 td.smalldayinfo			{ text-align: left; font-weight: bold; font-size: 80% }
-td.smalldayinfo_thin	{ text-align: left; font-size: 80% }
+td.smalldayinfo_thin		{ text-align: left; font-size: 80% }
 
 ul.program { text-align: left; font-size: 80% }
 ol.program { text-align: left; font-size: 80% }
